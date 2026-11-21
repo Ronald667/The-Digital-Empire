@@ -1,0 +1,6 @@
+{
+  "name": "The Digital Empire: Leveraged Passive Income",
+  "description": "An interactive digital eBook and actionable business platform showing how to build, scale, and automate digital services for passive income.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
